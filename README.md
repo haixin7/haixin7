@@ -1,6 +1,6 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Haixin Wang</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A Passionate Frontend Developer</h3>
 <img align="right" alt="coding" width="300" src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_pap19zg4ae1w3zg6go1_500.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haixin7&label=Profile%20views&color=0e75b6&style=flat" alt="haixin7" /> </p>
 
